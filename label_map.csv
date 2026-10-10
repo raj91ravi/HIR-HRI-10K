@@ -1,0 +1,13 @@
+intention_id,intention_label,episode_count,sample_count
+0,walking,84,840
+1,approaching_robot,84,840
+2,avoiding_robot,84,840
+3,requesting_assistance,84,840
+4,object_handover,83,830
+5,object_pickup,83,830
+6,following_robot,83,830
+7,stopping,83,830
+8,greeting_robot,83,830
+9,pointing,83,830
+10,sitting_down,83,830
+11,unknown_intention,83,830
